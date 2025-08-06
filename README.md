@@ -14,8 +14,6 @@
 
 ### 🛠️ Languages and Tools:
 
-### 🛠️ Languages and Tools:
-
 <p>
   <!-- Programming & Scripting -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
