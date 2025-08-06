@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tyler</h1>
-<h3 align="center">A passionate data analyst and developer</h3>
+<h1 align="center">Hi, I'm Tyler!</h1>
+<h3 align="center">Senior Data Analyst | Strategic Innovator | U.S. Air Force Veteran | CF Dad | Teacher's Husband</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tylergivens&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -19,11 +19,4 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-</p>
-
-### 📊 GitHub Stats:
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tylergivens&show_icons=true&locale=en" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tylergivens" alt="streak stats" />
 </p>
