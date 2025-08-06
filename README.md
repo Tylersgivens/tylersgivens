@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [my portfolio](#)
 - 💬 Ask me about **AWS, Python, and Raspberry Pi**
 - 📫 How to reach me: **tylerSgivens@gmail.com**
-- 📄 [Download My Resume (Word)](https://github.com/yourusername/yourusername/blob/main/Tyler_S._Givens_-_Resume_-_July2025.docx?raw=true)
+- 📄 [Download My Resume (Word)](https://github.com/Tylersgivens/Tylersgivens/blob/main/Tyler S. Givens - Resume - July2025.docx?raw=true)
 
 ### 🛠️ Languages and Tools:
 
