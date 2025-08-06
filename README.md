@@ -13,7 +13,6 @@
 - 📄 [Download My Resume (Word)](https://github.com/Tylersgivens/Tylersgivens/blob/main/resume.docx?raw=true)
 
 ### 🛠️ Languages and Tools:
-<p>
 ###  Programming and Scripting:
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
