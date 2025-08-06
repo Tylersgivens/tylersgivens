@@ -9,7 +9,7 @@
 - 🌱 I’m learning **ML and full-stack web development**
 - 👨‍💻 All of my projects are available at [my portfolio](#)
 - 💬 Ask me about **AWS, Python, and Raspberry Pi**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **tylerSgivens.com**
 - 📄 Know about my experiences [Resume](#)
 
 ### 🛠️ Languages and Tools:
